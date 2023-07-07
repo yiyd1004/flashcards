@@ -16,5 +16,5 @@
 4. Set the fonts for the text.</p>
 <h3 id="example">Example</h3>
 <p>The result of this stage should look something like this:</p>
-<p><img alt="Flashcards page layout" height="873" src="https://ucarecdn.com/693b0b58-fdad-4cee-91fb-8b632a75d082/" width="1908"/></p>
+<p><img alt="Flashcards page layout" src="https://ucarecdn.com/693b0b58-fdad-4cee-91fb-8b632a75d082/" width="1908"/></p>
 </div>
