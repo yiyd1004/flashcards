@@ -9,5 +9,5 @@
 2. Create a <code class="java">&lt;div&gt;</code> with the question term for each of the nine cards</p>
 <h5 id="example">Example</h5>
 <p>The resulting web page should look like something like this:</p>
-<p><img alt='Web page with a list of countries and the "What is the capital of" heading' height="873" src="https://ucarecdn.com/96deadba-f61a-4d6d-b3a5-b48a3bb376cc/" width="1895"/></p>
+<p><img alt='Web page with a list of countries and the "What is the capital of" heading' src="https://ucarecdn.com/96deadba-f61a-4d6d-b3a5-b48a3bb376cc/" width="1895"/></p>
 </div>
